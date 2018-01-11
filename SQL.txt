@@ -1,0 +1,4 @@
+CREATE TABLE tasks(
+	id int (2) not null AUTO_INCREMENT,
+    task varchar (255) NOT null
+);
